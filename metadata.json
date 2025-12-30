@@ -1,7 +1,0 @@
-{
-  "name": "Copy of GTV13-Smart-Remote1",
-  "description": "A next-generation AI-powered remote control for GTV13 devices, featuring smart voice commands and haptic feedback.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
